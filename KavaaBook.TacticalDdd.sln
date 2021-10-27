@@ -3,17 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KavaaBook.Api", "KavaaBook.Api\KavaaBook.Api.csproj", "{D915F476-E65E-4F8B-8259-07C639438196}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KavaaBook.Api", "src\KavaaBook.Api\KavaaBook.Api.csproj", "{D915F476-E65E-4F8B-8259-07C639438196}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KavaaBook.Domain", "Domain\KavaaBook.Domain.csproj", "{31CCC41D-5A70-43E0-991B-42C3C1C22DDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KavaaBook.Domain", "src\KavaaBook.Domain\KavaaBook.Domain.csproj", "{31CCC41D-5A70-43E0-991B-42C3C1C22DDE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KavaaBook.Infrastructure", "Infrastructure\KavaaBook.Infrastructure.csproj", "{8281C843-DFE1-402D-9DD5-6E89425DE135}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KavaaBook.Infrastructure", "src\KavaaBook.Infrastructure\KavaaBook.Infrastructure.csproj", "{8281C843-DFE1-402D-9DD5-6E89425DE135}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KavaaBook.Application", "Application\KavaaBook.Application.csproj", "{72EA2975-75A2-4C61-B7FA-BBAE002A70A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KavaaBook.Application", "src\KavaaBook.Application\KavaaBook.Application.csproj", "{72EA2975-75A2-4C61-B7FA-BBAE002A70A1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KavaaBook.Persistence", "Persistence\KavaaBook.Persistence.csproj", "{74C984F2-56E2-4B09-90B3-6B0804521A24}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{9EAB681D-CD79-4357-AEC4-BBB840C02BE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KavaaBook.Persistence", "src\KavaaBook.Persistence\KavaaBook.Persistence.csproj", "{74C984F2-56E2-4B09-90B3-6B0804521A24}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{947CF9AC-C753-4083-B6B0-775FA4B0AE96}"
 EndProject

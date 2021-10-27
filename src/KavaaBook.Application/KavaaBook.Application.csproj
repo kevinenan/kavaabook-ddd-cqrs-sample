@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Domain\KavaaBook.Domain.csproj" />
+    <ProjectReference Include="..\KavaaBook.Domain\KavaaBook.Domain.csproj" />
   </ItemGroup>
 
   <ItemGroup>

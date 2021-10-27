@@ -13,10 +13,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Application\KavaaBook.Application.csproj" />
-    <ProjectReference Include="..\Domain\KavaaBook.Domain.csproj" />
-    <ProjectReference Include="..\Infrastructure\KavaaBook.Infrastructure.csproj" />
-    <ProjectReference Include="..\Persistence\KavaaBook.Persistence.csproj" />
+    <ProjectReference Include="..\KavaaBook.Application\KavaaBook.Application.csproj" />
+    <ProjectReference Include="..\KavaaBook.Domain\KavaaBook.Domain.csproj" />
+    <ProjectReference Include="..\KavaaBook.Infrastructure\KavaaBook.Infrastructure.csproj" />
+    <ProjectReference Include="..\KavaaBook.Persistence\KavaaBook.Persistence.csproj" />
   </ItemGroup>
 
 </Project>

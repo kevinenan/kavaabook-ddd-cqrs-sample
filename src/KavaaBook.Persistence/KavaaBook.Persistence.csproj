@@ -12,8 +12,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Application\KavaaBook.Application.csproj" />
-    <ProjectReference Include="..\Domain\KavaaBook.Domain.csproj" />
+    <ProjectReference Include="..\KavaaBook.Application\KavaaBook.Application.csproj" />
+    <ProjectReference Include="..\KavaaBook.Domain\KavaaBook.Domain.csproj" />
   </ItemGroup>
 
 </Project>
